@@ -28,4 +28,5 @@ Mediante un dashboard interactivo, se estructuró una narrativa de datos basada 
 * Analizar los patrones de compra de los clientes con menor volumen de facturación para identificar barreras en el recorrido de compra.
 
 ---
-📫 **Contacto:** [Dejá acá el link a tu LinkedIn]
+📫 **Contacto:** [Micaela López en LinkedIn]
+(https://www.linkedin.com/in/mlopezjuarez)
